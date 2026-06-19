@@ -10,7 +10,6 @@ This repository contains my solutions and learnings from a 7-day JavaScript chal
 - Create a public learning portfolio
 
 ## Day-1 Topics Covered:
-- Topics Covered
 - Variables (let, const, var)
 - Data Types
 - Arrays
