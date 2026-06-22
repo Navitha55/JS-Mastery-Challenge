@@ -77,28 +77,6 @@ tic-tac-toe/
 └── README.md
 ```
 
-## ▶️ How to Run
-
-1. Clone the repository
-
-```bash
-git clone <repository-url>
-```
-
-2. Open the project folder
-
-```bash
-cd tic-tac-toe
-```
-
-3. Open `index.html` in your browser
-
-No additional installation is required.
-
-## 📸 Preview
-
-Add a screenshot of your game here after uploading it to GitHub.
-
 ## 🌱 Learning Outcome
 
 Through this project, I gained hands-on experience with:
