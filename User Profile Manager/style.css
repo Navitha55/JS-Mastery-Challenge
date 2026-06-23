@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    align-items: center;
+}
+
+.heading {
+    margin: 20px;
+    color: black;
+    font-size: 50px;
+}
+
+.button {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+    margin: 20px;
+}
+
+.btn {
+    background-color: rgb(131, 191, 245);
+    padding: 20px;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.hide {
+    display: none;
+}

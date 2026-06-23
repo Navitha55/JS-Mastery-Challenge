@@ -1,8 +1,6 @@
 # JS-Mastery-Challenge 🚀
 
-A structured 7-day JavaScript challenge documenting daily concepts, coding exercises, and learning progress.
-
-This repository contains my solutions, notes, and learnings as I strengthen my JavaScript fundamentals through hands-on daily challenges.
+A structured 7-day JavaScript challenge documenting my daily learning, coding exercises, and projects.
 
 ## Goals
 
@@ -10,7 +8,6 @@ This repository contains my solutions, notes, and learnings as I strengthen my J
 * Improve problem-solving skills
 * Build consistent coding habits
 * Create a public learning portfolio
-* Develop confidence in writing real-world JavaScript applications
 
 ---
 
@@ -20,7 +17,7 @@ This repository contains my solutions, notes, and learnings as I strengthen my J
 | ----- | -------------------------------- | ----------- |
 | Day 1 | Mini Shopping Cart Simulation 🛒 | ✅ Completed |
 | Day 2 | Secret Number Game 🔐            | ✅ Completed |
-| Day 3 | Coming Soon                      | ⏳           |
+| Day 3 | User Profile Manager 👤          | ✅ Completed |
 | Day 4 | Coming Soon                      | ⏳           |
 | Day 5 | Coming Soon                      | ⏳           |
 | Day 6 | Coming Soon                      | ⏳           |
@@ -28,61 +25,19 @@ This repository contains my solutions, notes, and learnings as I strengthen my J
 
 ---
 
-## Day 1 Topics Covered
+## Projects
 
-* Variables (`let`, `const`, `var`)
-* Data Types
-* Arrays
-* Objects
-* Functions
-* Global Scope
-* Function Scope
-* Operators
+### Day 1 - Mini Shopping Cart Simulation 🛒
 
-  * Arithmetic Operators
-  * Comparison Operators
-  * Assignment Operators
-* JavaScript Runtime Concepts
-* Event Loop Basics
-* `setTimeout()`
+**Concepts:** Variables, Data Types, Arrays, Objects, Functions, Scope, Operators, Event Loop, `setTimeout()`
 
-### Project
+### Day 2 - Secret Number Game 🔐
 
-🛒 Mini Shopping Cart Simulation
+**Concepts:** Closures, Functions, Loops, Conditional Statements, User Input, Data Hiding
 
-Features:
+### Day 3 - User Profile Manager 👤
 
-* Product Management
-* Cart Management
-* Tax Calculation
-* Discount Calculation
-* Billing Generation
-* Order Processing Simulation
-
----
-
-## Day 2 Topics Covered
-
-* Conditional Statements (`if`, `else if`, `else`)
-* Closures
-* Nested Functions
-* Arrow Functions
-* Function Declarations
-* User Input using `prompt()`
-* Loops (`for`)
-* Data Hiding using Closures
-
-### Project
-
-🔐 Secret Number Game
-
-Features:
-
-* Secret Number Protection using Closures
-* Three Attempt Guessing System
-* Interactive User Input
-* Real-time Feedback
-* Success and Failure Handling
+**Concepts:** DOM Manipulation, BOM Methods, Events, Arrays, Objects, String Methods, `setTimeout()`
 
 ---
 
@@ -92,16 +47,8 @@ Features:
 JS-Mastery-Challenge/
 │
 ├── Day-1-Mini-Shopping-Cart/
-│   ├── index.html
-│   ├── script.js
-│   └── README.md
-│
 ├── Day-2-Secret-Number-Game/
-│   ├── index.html
-│   ├── script.js
-│   └── README.md
-│
-├── Day-3/
+├── Day-3-User-Profile-Manager/
 ├── Day-4/
 ├── Day-5/
 ├── Day-6/
@@ -112,7 +59,6 @@ JS-Mastery-Challenge/
 
 ## Learning Journey
 
-This repository serves as a public record of my JavaScript learning journey, where each day focuses on understanding core concepts through practical projects and hands-on implementation.
+This repository serves as a record of my JavaScript learning journey, where each day focuses on understanding concepts through hands-on projects and practical implementation.
 
----
 
