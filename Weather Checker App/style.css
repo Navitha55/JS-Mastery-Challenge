@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    margin: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    min-height: 3rem;
+}
+
+.heading {
+    font-size: 5rem;
+    font-weight: 200;
+    color: rgb(45, 41, 41);
+}
+
+.desc {
+    font-style: italic;
+    font-size: 1.25rem;
+    margin: 20px;
+    color: grey;
+}
+
+.oper {
+    align-items: center;
+    display: grid;
+    gap: 50px;
+    text-align: center;
+    max-height: 50vh;
+}
+
+#input {
+    width: 100%;
+    max-width: 500px;
+    height: 2.5rem;
+    border-radius: 15px;
+    padding-left: 25px;
+}
+
+footer {
+    text-align: center;
+    margin: 40px;
+}
+
+#btn {
+    padding: 10px;
+    border-radius: 8px;
+    background-color: rgb(28, 28, 215);
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+}
+
+.result {
+    width: 100%;
+    max-width: 550px;
+    margin: 30px auto;
+    padding: 20px;
+    min-height: 120px;
+    border-radius: 12px;
+    background: #f5f7fa;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    font-size: 1.2rem;
+    line-height: 2;
+    text-align: left;
+}
+
+.result p {
+    margin: 10px 0;
+}
+
+.error {
+    color: crimson;
+    font-weight: bold;
+    text-align: center;
+}
+
+.success {
+    color: #1d4ed8;
+    font-weight: 500;
+}
+
+#btn:hover {
+    background-color: rgb(76, 76, 232);
+}
+
+.hide {
+    display: none;
+}

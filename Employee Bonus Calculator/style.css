@@ -1,0 +1,50 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+.title {
+    color: navy;
+    font-size: 40px;
+    text-align: center;
+    margin: 20px 20px;
+}
+
+.heading {
+    font-size: 40px;
+    text-align: center;
+    margin: 20px 20px;
+}
+
+.all-emp {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.hide {
+    display: none;
+}
+
+.emp {
+    list-style: none;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+    min-width: 200px;
+}
+
+.emp li {
+    margin: 8px 0;
+}
+
+button {
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 15px;
+    background-color: navy;
+    color: white;
+    margin: 20px;
+}

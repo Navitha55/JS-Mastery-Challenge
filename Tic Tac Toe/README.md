@@ -1,4 +1,4 @@
-# 🎮 Tic-Tac-Toe Game
+# 🎮 Day 8 - Tic-Tac-Toe Game
 
 A simple and interactive Tic-Tac-Toe game built using **HTML, CSS, and JavaScript**. This project helped me strengthen my understanding of core JavaScript concepts while building a complete browser-based game.
 

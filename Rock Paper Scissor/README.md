@@ -1,4 +1,4 @@
-# ✊✋✌️ Rock Paper Scissors Game
+# Day 9 ✊✋✌️ Rock Paper Scissors Game
 
 A fun and interactive Rock Paper Scissors game built using **HTML, CSS, and JavaScript**. Players compete against the computer, with scores updated dynamically after each round.
 
